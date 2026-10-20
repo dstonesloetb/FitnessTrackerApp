@@ -44,6 +44,9 @@ public class FitnessHealthTracker {
     // =========================================================================
 
     private static void runBmiInterface() {
+        System.out.println("\n9Body Mass Index (BMI) Calculator");
+        System.out.println("--------------------------------");
+       
         //Prompt to enter weight
 
         //Prompt to enter height 
